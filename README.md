@@ -32,6 +32,7 @@
 
 2. 运行
 ```bash
+cd nateshao-cv
 npm install
 npm run dev
 ```
